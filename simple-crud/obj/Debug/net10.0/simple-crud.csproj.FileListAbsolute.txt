@@ -1,0 +1,14 @@
+D:\personal\C#\simple-crud\bin\Debug\net10.0\simple-crud.exe
+D:\personal\C#\simple-crud\bin\Debug\net10.0\simple-crud.deps.json
+D:\personal\C#\simple-crud\bin\Debug\net10.0\simple-crud.runtimeconfig.json
+D:\personal\C#\simple-crud\bin\Debug\net10.0\simple-crud.dll
+D:\personal\C#\simple-crud\bin\Debug\net10.0\simple-crud.pdb
+D:\personal\C#\simple-crud\obj\Debug\net10.0\simple-crud.GeneratedMSBuildEditorConfig.editorconfig
+D:\personal\C#\simple-crud\obj\Debug\net10.0\simple-crud.AssemblyInfoInputs.cache
+D:\personal\C#\simple-crud\obj\Debug\net10.0\simple-crud.AssemblyInfo.cs
+D:\personal\C#\simple-crud\obj\Debug\net10.0\simple-crud.csproj.CoreCompileInputs.cache
+D:\personal\C#\simple-crud\obj\Debug\net10.0\simple-crud.dll
+D:\personal\C#\simple-crud\obj\Debug\net10.0\refint\simple-crud.dll
+D:\personal\C#\simple-crud\obj\Debug\net10.0\simple-crud.pdb
+D:\personal\C#\simple-crud\obj\Debug\net10.0\simple-crud.genruntimeconfig.cache
+D:\personal\C#\simple-crud\obj\Debug\net10.0\ref\simple-crud.dll
